@@ -14,8 +14,8 @@
 
         default_layer {
             bindings = <
-                &kp X
-                &kp Z
+                &kp LEFT_ARROW
+                &kp RIGHT_ARROW
             >;
         };
     };
